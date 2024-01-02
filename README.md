@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/shivam-kumar-29512a271" target="blank"><img align="center" src="www.linkedin.com/in/shivam-kumar-29512a271" alt="shivam kumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivam kumar" target="blank"><img align="center" src="www.linkedin.com/in/shivam-kumar-29512a271" alt="shivam kumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
